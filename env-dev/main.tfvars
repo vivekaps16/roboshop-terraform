@@ -1,6 +1,6 @@
 env         = "dev"
-domain_name = "devopspractice.info
-zone_id     = "Z02249652EM5BAO495DZ1"
+domain_name = "devopspractice.info"
+zone_id     = "Z06362873ENTBVG3OQMG8"
 
 db_instances = {
   mongodb = {
